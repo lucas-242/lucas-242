@@ -13,10 +13,10 @@ My name is Lucas Guimarães, I'm 22 years old and I'm graduated in Computer Scie
 
 ### Contacts 📞
 
-[Linkedin](https://www.linkedin.com/in/lucas-matheus-da-rocha-guimar%C3%A3es-202250140/).
+[Linkedin](https://www.linkedin.com/in/lucas-matheus-da-rocha-guimar%C3%A3es-202250140/)
 
-[Twitter](https://twitter.com/bobconstrutorbr).
+[Twitter](https://twitter.com/bobconstrutorbr)
 
-[Instagram](https://www.instagram.com/luckm242/).
+[Instagram](https://www.instagram.com/luckm242/)
 
 Xbox Live: Bob Builder#8096
