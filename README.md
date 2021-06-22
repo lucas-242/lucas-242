@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**lucas-242/lucas-242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas Guimarães, I'm 22 years old and I'm graduated in Computer Science.
 
-Here are some ideas to get you started:
+### Skills 🎖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular
+- Flutter
+- .NET Core
+- Firebase
+- SQL Server
+- No Sql
+
+### Contacts 📞
+
+[Linkedin](https://www.linkedin.com/in/lucas-matheus-da-rocha-guimar%C3%A3es-202250140/).
+[Twitter](https://twitter.com/bobconstrutorbr).
+[Instagram](https://www.instagram.com/luckm242/).
+Xbox Live: Bob Builder#8096
