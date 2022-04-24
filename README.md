@@ -11,13 +11,14 @@
 <h5>Skills 🎖</h5>
 
 <ul>
-<li>Angular</li>
 <li>Flutter</li>
+<li>Angular</li>
 <li>.NET Core</li>
 <li>SQL Server</li>
 <li>NoSQL</li>
 <li>Oracle Integration Cloud</li>
 <li>Firebase</li>
+<li>Back4App</li>
 <li>Azure</li>
 </ol>
 </p>
