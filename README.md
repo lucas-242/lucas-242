@@ -1,7 +1,7 @@
 ## 👋 Hello there
 
 <p align="left"> 
-  Hello, my name is Lucas Guimarães and I'm 22 years old.
+  Hello, my name is Lucas Guimarães and I'm 23 years old.
   I'm graduated in <strong>Computer Science</strong> at Unisuam.
 </p>
 
