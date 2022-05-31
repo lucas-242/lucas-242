@@ -18,7 +18,7 @@
 <li>NoSQL</li>
 <li>Firebase</li>
 <li>Back4App</li>
-<li>Oracle Integration Cloud / Viual Builder</li>
+<li>Oracle Integration Cloud / Visual Builder</li>
 <li>Azure</li>
 <li>Clean Architecture</li>
 <li>TDD</li>
