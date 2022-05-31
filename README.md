@@ -10,7 +10,7 @@
 <p align="left"> 
 <h5>Skills 🎖</h5>
 
-<ol>
+<ul>
 <li>Flutter</li>
 <li>Angular</li>
 <li>.NET Core</li>
@@ -23,7 +23,7 @@
 <li>Clean Architecture</li>
 <li>TDD</li>
 <li>DevOps</li>
-</ol>
+</ul>
 </p>
 
 <p align="left">
